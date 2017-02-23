@@ -1,0 +1,41 @@
+Student   :     Chloe  Coleshill - 12345678
+Instructor:    Eliott  Coleshill - 98765432
+Student Calibration:
+MAX = 80
+MIN = 20
+TASK: Task1
+Sim3
+     Type = exoskeleton
+     Intensity = 88
+     Duration = 1
+Sim2
+     Type = stim
+     Location = back
+     Intensity = 87
+     Frequency = 35
+     Duration = 10
+Sim1
+     Type = stim
+     Location = front
+     Intensity = 66
+     Frequency = 60
+     Duration = 0
+TASK: Task15
+Sim1
+     Type = stim
+     Location = front
+     Intensity = 66
+     Frequency = 60
+     Duration = 0
+Sim1
+     Type = stim
+     Location = front
+     Intensity = 66
+     Frequency = 60
+     Duration = 0
+Sim1
+     Type = stim
+     Location = front
+     Intensity = 66
+     Frequency = 60
+     Duration = 0
